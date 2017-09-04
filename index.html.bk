@@ -1,0 +1,756 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="images/smchainlogo.png">
+    <title>水木链</title>
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/default.min.css">
+    <link rel="stylesheet" type="text/css" href="csss/layout.min.css">
+    <link rel="stylesheet" type="text/css" href="csss/style.css">
+    <style type="text/css">
+        .pic-txt-list-3 .tp {
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+    </style>
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]>
+    <script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+<body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" style="padding-bottom: 0px">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"><span class="sr-only">Toggle navigation</span> <span
+                    class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span></button>
+                <a class="navbar-brand page-scroll" href="#page-top"><img src="images/logo.png" alt="Lattes theme logo"></a>
+            </div>
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a class="page-scroll" href="#page-top">首页</a></li>
+                    <li><a class="page-scroll" href="#about">介绍</a></li>
+                    <li><a class="page-scroll" href="#vision">愿景</a></li>
+                    <li><a class="page-scroll" href="#feature">特点</a></li>
+                    <li><a class="page-scroll" href="#team">团队</a></li>
+                    <li><a class="page-scroll" href="#investment">投资机构</a></li>
+                    <li><a class="page-scroll" href="#investmentb">投资顾问</a></li>
+                    <li><a class="page-scroll" href="#priority">优势</a></li>
+                    <li><a class="page-scroll" href="resource/smchain.pdf" target="_blank">白皮书</a></li>
+                    <li><a class="page-scroll" href="#claim">声明与风险</a></li>
+                    <li><a class="page-scroll" href="#contact">联系我们</a></li>
+                    <li><a class="page-scroll en-bat" href="index_en.html">EN</a></li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <div style="height: 5px"></div>
+        <div style="margin-bottom: 0px">
+            <marquee direction="righ" height="22" width="100%" scrollamount="3">
+                <a href="resource/smchain.pdf" target="_blank" style="color:aliceblue">通知：水木链ICO即将在各大平台火热开启，点我了解详情。</a>
+            </marquee>
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+    <!-- Header -->
+    <header class="htmleaf-container">
+        <div id="container">
+            <div id="main">
+                <section class="section-first">
+                    <div class="text-left banner-txt">
+                        <div class="col-lg-4" style='width:237px;height:100px;'></div>
+                        <div class="col-lg-12" style="text-align: center;">
+                            <p><span style="font-size: 48px">水木链</span></p>
+                            <br><br>
+                            <p><span style="font-size: 32px">可升级智能合约商用平台</span></p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </header>
+
+    <section class="contribute pt100 pb100 bg-img anchor-bd" id="about" style="background-image:url(images/new/bg-3.jpg);">
+        <p>&nbsp;</p>
+        <div class="wrapper clearfix">
+            <div class="hd mb90 ta-c" style="padding-bottom:40px">
+                <h3 align="center" class="ff-g-light fs-50 color-7">介绍</h3>
+            </div>
+
+
+            <div class="s-bd fs-43 color-3">
+                <p style='font-size:18px;font-weight:bold;color:dimgray'>
+                    水木链是一条支持可升级智能合约的公有链,采用 DPOS 共识算法,低资源消耗,适 用于商业应用开发。水木链支持分布式文件存储,满足分布式数据需求。通过水木链可以方便地创 建各种开放去中心化、防篡改的 APP,可应用于存证防伪、供应链溯源、物联网、金融交易等多个 行业领域。同时,水木链也提出了超导数据交易技术,可以用于行业间用户交换合作的数据,同时 不泄露任何隐私,具有广泛的应用前景。我们相信水木链能作为一条基础设施区块链,帮助实现许 多行业的分布式商业场景,创建一个更灵活的、去中心化的、多场景需求的区块链应用生态环境。</p>
+            </div>
+
+
+            <i class="icon-1 icon3-4"></i></a>
+        </div>
+        </div>
+    </section>
+
+
+    <section class="brokers pt150 pb100 bg-img" id="vision" style="background-image:url(images/new/bg-4.jpg);">
+
+        <h3 align="center" class="ff-g-light fs-50 color-1">愿景</h3>
+        </div>
+
+        <h4 class="mb40">&nbsp;</h4>
+        <article class="article fs-20 ff-g-light lh-15em-4over mb60">
+            <p align="center" class="wrapper" style="font-size: 25px; font-family: '微软雅黑'; color: #FFF;">"打造一个区块链商业应用的生态平台"</p>
+        </article>
+
+        </div>
+
+        </div>
+        </div>
+    </section>
+
+    <section class="timeline pt150 pb150 bg-img" id="feature" style="background-color: #1d154e;/* background-image:url(images/new/bg-1.jpg); */">
+        <div class="wrapper clearfix">
+            <div class="hd ta-c mb75">
+                <h3 align="center" class="ff-g-light fs-50 color-1">水木链的特点</h3>
+
+            </div>
+            <div class="bd pic-txt-list-4 clearfix">
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-01.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1">
+                        <h3 class="ff-gu fs-26 mb20">1. 可升级职能合约</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">兼容以太坊智能合约技术，采用Solidity 智能 编程实现，使得主流行业和传统企业能 合约 够更加便捷地使用区块链技术</p>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-01.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1 fl">
+                        <h3 class="ff-gu fs-26 mb20">2. DPOS共识算法</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">采用DPOS(授权股权证明机制)共识算法， 用户 选 举出 见证 者 产生区块，避免了POW算 力消耗巨大的问题，并能获取高吞吐量和低 延迟的优势。</p>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-01.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1">
+                        <h3 class="ff-gu fs-26 mb20">3. 移动端友好</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">轻量级节点 可运行在 移动端， 创造一个 移动去中心化应用的时代</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ptl4-item grow pt45 pb45 clearfix">
+                <div class="gcol-lg-4 ta-c">
+                    <img src="images/partner-01.png" alt="">
+                </div>
+                <div class="gcol-lg-8 color-1">
+                    <h3 class="ff-gu fs-26 mb20">4. 应用SDK</h3>
+                    <article class="article ff-g-book fs-16 lh-16em-over">
+                        <p style="color: #FFF">一套使用便利、功能完善的SDK，便 于用户在水木链之上开发商业应用</p>
+                    </article>
+                </div>
+            </div>
+
+            <div class="ptl4-item grow pt45 pb45 clearfix">
+                <div class="gcol-lg-4 ta-c">
+                    <img src="images/partner-01.png" alt="">
+                </div>
+                <div class="gcol-lg-8 color-1">
+                    <h3 class="ff-gu fs-26 mb20">5. 超导数据交易</h3>
+                    <article class="article ff-g-book fs-16 lh-16em-over">
+                        <p style="color: #FFF">超导数据交易技术使得双方仅借助水木链 便可完 成数据 交易，且在过程中不会泄露隐私</p>
+                    </article>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="team pt150 pb150 anchor-bd" style="background-image:url(images/new/bg-9.jpg);" id="team">
+        <div class="wrapper clearfix">
+            <div class="hd ta-c mb150">
+                <h3 class="ff-g-light fs-50 color-1 mb50">核心团队</h3>
+                <div style='width:70px;height:40px;border-bottom: 5px solid darkslateblue;margin-top:10px;margin:0 auto;'></div>
+            </div>
+            <div class="bd pic-txt-list-3 grow clearfix">
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140 clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/ll.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">刘乐</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">项目发起人</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于清华大学计算机系，获得学士和硕士学位。2010年加入上海证券交易所，2012年开始研究区块链技术。作为CTO于2015年联合筹建东吴在线、2016年联合筹建链石科技。2017年创立以贝科技，致力于区块链交易协议、共识算法、智能合约等技术的研发，以及区块链在商业领域的落地。刘乐先生具有丰富的创业经验和管理经验。</p>
+                                <!-- 	  <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140 clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/lzw.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">李中伟</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">技术负责人</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于华中科技大学，获得学士和硕士学位。曾就职于腾讯、思科，多次参与创业。2015 年开始进入区块链领域，对以太坊和石墨烯平台有深入的研究，对区块链体系架构、智能合约、共识算法有较深刻的理解，并成功实施区块链方案到多家银行的基金托管系统。
+                                </p>
+                                <!--  <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140 clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/yq.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">易强</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">运营推广负责人</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>
+                                    毕业于湖南大学，获得学士学位。具备10年以上用户运营、市场推广经验，曾任达闻营销、大众点评营销总监，服务过大众点评、渣打银行、网易、盛大等大客户，获得广泛好评，也具有丰富的创业经验。</p>
+                                <!-- <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140 clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/zz.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">张军</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">核心工程师</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于清华大学计算机系，获得学士和硕士学位。曾长期从事网络安全领域研究，对密码学、密码工程、大规模并发访问有深入研究。长期关注数字货币，具有2年以上区块链开发经验。</p>
+                                <!-- <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140 clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/ly.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">李阳</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">核心工程师</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于清华大学计算机系，获得学位学位。曾在蚂蚁金服从事支付宝核心交易系统的研发。具有1年多区块链开发经验。</p>
+                                <!-- <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item mb140  clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/shh.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">沈华虎</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">资深工程师</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于西安交通大学,获得硕士学位。具有多年软件开发经验,熟悉移动端和后台开发,先后在 HTC、思科、英孚等企业就职,多次创业经验。</p>
+                                <!-- <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="tp ta-c">
+                            <div class="face m-auto"><img src="images/core/mj.png" alt=""></div>
+                            <div class="profile color-1">
+                                <h3 class="ff-g-bold fs-26 mb5 lh-15em-1over">马颉</h3>
+                                <p class="ff-g-light-italic fs-16 lh-15em-2over">资深工程师</p>
+                            </div>
+                        </div>
+                        <div class="bt">
+                            <div class="circleline"></div>
+                            <article class="article fs-16 ff-g-book color-7 lh-16em-10over scroll-bd ps-container">
+                                <p>毕业于中国科学技术大学,获得硕士学位。先后在思科、支付宝、爱奇艺等公司任职,对密码学算 法有深入理解,精通架构设计,熟悉主流移动端系统的软件开发。</p>
+                                <!-- <div class="ps-scrollbar-x-rail" style="width: 363px; display: none; left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; height: 256px; display: none; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div> -->
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="team pt150 pb150 anchor-bd" style="background-image:url(images/new/bg-9.jpg);" id="investment">
+        <div class="wrapper clearfix">
+            <div class="hd ta-c mb100">
+                <h3 class="ff-g-light fs-50 color-1 mb50">投资机构</h3>
+                <div style='width:70px;height:40px;border-bottom: 5px solid darkslateblue;margin-top:10px;margin:0 auto;'></div>
+            </div>
+
+            <div class="bd pic-txt-list-3 grow clearfix">
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>xx资本</h3>
+                                <div class="team-location">投资机构</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>yy资本</h3>
+                                <div class="team-location">投资机构</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>yy资本</h3>
+                                <div class="team-location">投资机构</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>yy资本</h3>
+                                <div class="team-location">投资机构</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>yy资本</h3>
+                                <div class="team-location">投资机构</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <section class="team pt150 pb150 anchor-bd" style="background-image:url(images/new/bg-9.jpg);" id="investmentb">
+        <div class="wrapper clearfix">
+            <div class="hd ta-c mb100">
+                <h3 class="ff-g-light fs-50 color-1 mb50">投资顾问</h3>
+                <div style='width:70px;height:40px;border-bottom: 5px solid darkslateblue;margin:0 auto;'></div>
+            </div>
+
+            <div class="bd pic-txt-list-3 grow clearfix">
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>狗嗨</h3>
+                                <div class="team-location">投资顾问</div>
+                                <div class="team-position" style='margin-top: -40px;color:#fff;'> xx创始人</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>狗嗨</h3>
+                                <div class="team-location">投资顾问</div>
+                                <div class="team-position" style='margin-top: -40px;color:#fff;'>
+                                    xx创始人
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>狗嗨</h3>
+                                <div class="team-location">投资顾问</div>
+                                <div class="team-position" style='margin-top: -40px;color:#fff;'> xx创始人
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>狗嗨</h3>
+                                <div class="team-location">投资顾问</div>
+                                <div class="team-position" style='margin-top: -40px;color:#fff;'>
+                                    xx创始人
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="gcol-gt-4 gcol-md-6 ptl3-item clearfix">
+                    <div class="ptl3-box">
+                        <div class="team-item">
+                            <div class="team-image"><img src="images/team/TOADD.jpg" class="img-responsive" alt=""></div>
+                            <div class="team-text">
+                                <div style='width:70px;height:2px;background-color: darkslateblue;margin-top:10px;'></div>
+                                <h3>狗嗨</h3>
+                                <div class="team-location">投资顾问</div>
+                                <div class="team-position" style='margin-top: -40px;color:#fff;'> xx创始人</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </section>
+
+    <section class="timeline pt150 pb150 bg-img" id="priority" style="background-image:url(images/new/bg10.jpg);">
+        <div class="wrapper clearfix">
+            <div class="hd ta-c mb75">
+                <h3 align="center" class="ff-g-light fs-50 color-1">优势</h3>
+
+            </div>
+
+            <div class="bd pic-txt-list-4 clearfix">
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-01.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1">
+                        <h3 class="ff-gu fs-26 mb20">1. 丰富的区块链研究和行业应用经验</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">2012年开始研究区块链技术并落地了商业项目</p>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-02.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1 fl">
+                        <h3 class="ff-gu fs-26 mb20">2. 丰富的社区开发资源</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">来自各地开源社区的资源支持</p>
+                        </article>
+                    </div>
+                </div>
+
+                <div class="ptl4-item grow pt45 pb45 clearfix">
+                    <div class="gcol-lg-4 ta-c">
+                        <img src="images/partner-03.png" alt="">
+                    </div>
+                    <div class="gcol-lg-8 color-1">
+                        <h3 class="ff-gu fs-26 mb20">3. 健全的团队架构</h3>
+                        <article class="article ff-g-book fs-16 lh-16em-over">
+                            <p style="color: #FFF">核心团队包括开发、运营、媒体、财务、法务、客服等全业务角色</p>
+                        </article>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ptl4-item grow pt45 pb45 clearfix">
+                <div class="gcol-lg-4 ta-c">
+                    <img src="images/partner-04.png" alt="">
+                </div>
+                <div class="gcol-lg-8 color-1">
+                    <h3 class="ff-gu fs-26 mb20">4. 经验丰富的行业精英</h3>
+                    <article class="article ff-g-book fs-16 lh-16em-over">
+                        <p style="color: #FFF">成员来自BAT等知名互联网企业</p>
+                    </article>
+                </div>
+            </div>
+
+        </div>
+    </section>
+    <section class="brokers pt100 pb100 bg-img" id="claim" style="background-image:url(images/new/bg-5.jpg);">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="section-title">
+                        <h2 class="text-center" style='color:white;padding-top: 50px;'>声明与风险</h2>
+                        <div id='risknotice' class="row text-center">
+                            <div class="col-lg-1 col-md-1"></div>
+                            <div class="col-lg-2 col-md-2">不了解不参与</div>
+                            <div class="col-lg-2 col-md-2">不贡献不参与</div>
+                            <div class="col-lg-2 col-md-2">不监督不参与</div>
+                            <div class="col-lg-2 col-md-2">不信任不参与</div>
+                            <div class="col-lg-2 col-md-2">不坚持不参与</div>
+                            <div class="col-lg-1 col-md-1"></div>
+                        </div>
+
+                        <!--<div style="width: 100%;margin: auto;">-->
+                        <!--<div style="margin-right: 42px;margin-left:42px;">不了解不参与</div>-->
+                        <!--<div style="margin-right: 42px;margin-left:42px;">不贡献不参与</div>-->
+                        <!--<div style="margin-right: 42px;margin-left:42px;">不监督不参与</div>-->
+                        <!--<div style="margin-right: 42px;margin-left:42px;">不信任不参与</div>-->
+                        <!--<div style="margin-right: 42px;margin-left:42px;">不坚持不参与</div>-->
+                        <!--</div>-->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section class="contribute pt100 pb100 bg-img anchor-bd" id="contact" style="background-image:url(images/new/bg-5.jpg);">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="section-title">
+                        <h2 style="padding-top: 50px;color: white;">联系我们</h2>
+                        <p>有任何问题，可加入QQ群/微信群咨询，谢谢。</p>
+                        <div class="row">
+                            <div class="col-lg-3 col-lg-offset-3">
+                                <img class="code" src="images/code.png" />
+                                <p>水木链官方QQ群</p>
+                            </div>
+                            <div class="col-lg-3">
+                                <img class="code" src="images/code1.jpg" />
+                                <p>水木链微信群秘</p>
+                            </div>
+                        </div>
+                        <!-- <p>Emal：<a href="mailto:icon@smchain.com">ico@smchain.org</a></p> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <p id="back-top"><a href="#top"><i class="fa fa-angle-up"></i></a></p>
+    <footer>
+        <div class="container text-center">
+            <p>©2016-2017 水木链基金会 smchain foundation</p>
+        </div>
+    </footer>
+
+    <!-- Modal for portfolio item 1 -->
+    <div class="modal fade" id="Modal-1" tabindex="-1" role="dialog" aria-labelledby="Modal-label-1">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="Modal-label-1">Dean & Letter</h4>
+                </div>
+                <div class="modal-body"><img src="images/demo/portfolio-1.html" alt="img01" class="img-responsive" />
+                    <div class="modal-works"><span>Branding</span><span>Web Design</span></div>
+                    <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for portfolio item 2 -->
+    <div class="modal fade" id="Modal-2" tabindex="-1" role="dialog" aria-labelledby="Modal-label-2">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="Modal-label-2">Startup Framework</h4>
+                </div>
+                <div class="modal-body"><img src="images/demo/portfolio-2.html" alt="img01" class="img-responsive" />
+                    <div class="modal-works"><span>Branding</span><span>Web Design</span></div>
+                    <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for portfolio item 3 -->
+    <div class="modal fade" id="Modal-3" tabindex="-1" role="dialog" aria-labelledby="Modal-label-3">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="Modal-label-3">Lamp & Velvet</h4>
+                </div>
+                <div class="modal-body"><img src="images/demo/portfolio-3.html" alt="img01" class="img-responsive" />
+                    <div class="modal-works"><span>Branding</span><span>Web Design</span></div>
+                    <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for portfolio item 4 -->
+    <div class="modal fade" id="Modal-4" tabindex="-1" role="dialog" aria-labelledby="Modal-label-4">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="Modal-label-4">Smart Name</h4>
+                </div>
+                <div class="modal-body"><img src="images/demo/portfolio-4.html" alt="img01" class="img-responsive" />
+                    <div class="modal-works"><span>Branding</span><span>Web Design</span></div>
+                    <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal for portfolio item 5 -->
+    <div class="modal fade" id="Modal-5" tabindex="-1" role="dialog" aria-labelledby="Modal-label-5">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+                        aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="Modal-label-5">Fast People</h4>
+                </div>
+                <div class="modal-body"><img src="images/demo/portfolio-5.html" alt="img01" class="img-responsive" />
+                    <div class="modal-works"><span>Branding</span><span>Web Design</span></div>
+                    <p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+        ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+    <script src="js/theme-scripts.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script>
+        window.jQuery || document.write('<script src="js/jquery-2.1.1.min.js"><\/script>')
+    </script>
+    <script src="js/vidbg.js"></script>
+    <script type="text/javascript">
+        jQuery(function($) {
+            $('.section-second').vidbg({
+                'mp4': 'media/mp4_video.mp4',
+                'webm': 'media/webm_video.webm',
+                'poster': 'media/fallback.jpg',
+            }, {
+                // Options
+                muted: true,
+                loop: true,
+                overlay: true,
+            });
+        });
+    </script>
+</body>
+
+
+<!-- Mirrored from www.smchain.org/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 02 Sep 2017 07:48:58 GMT -->
+
+</html>
